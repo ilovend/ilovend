@@ -2,11 +2,5 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilovend)](https://github.com/ilovend/ilovend)
 <img align="right" src="http://cdn.zyboy.site/202302181536872.gif"></img>
 
-- 🔭 I’m currently working on SiChuan ChengDu
-- 🌱 I’m currently learning Java
-- 👯 I hope to have a girlfriend in the future
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about Minecraft,java...
-- 📫 How to reach me: QQ:1094174805
-- ⚡ Fun fact: MC,Spigot,forge...
-
+Hi there 🍨
+I'm a Java developer. I'd like to make some contributions for Java open source and share some thoughts on my blog and github.
